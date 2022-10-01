@@ -7,3 +7,7 @@ body {
     align-items: center;
     
 }
+form {
+   padding: 3rem 2rem;
+   background-color:#303F9F;
+}
